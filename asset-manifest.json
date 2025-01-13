@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Xenophobia/static/css/main.998d4886.chunk.css",
-    "main.js": "/Xenophobia/static/js/main.72c770b0.chunk.js",
-    "main.js.map": "/Xenophobia/static/js/main.72c770b0.chunk.js.map",
-    "runtime-main.js": "/Xenophobia/static/js/runtime-main.0205741d.js",
-    "runtime-main.js.map": "/Xenophobia/static/js/runtime-main.0205741d.js.map",
-    "static/js/2.14dc5bb6.chunk.js": "/Xenophobia/static/js/2.14dc5bb6.chunk.js",
-    "static/js/2.14dc5bb6.chunk.js.map": "/Xenophobia/static/js/2.14dc5bb6.chunk.js.map",
+    "main.css": "/Xenophobia/static/css/main.ebd0b86e.chunk.css",
+    "main.js": "/Xenophobia/static/js/main.0d6c5fec.chunk.js",
+    "main.js.map": "/Xenophobia/static/js/main.0d6c5fec.chunk.js.map",
+    "runtime-main.js": "/Xenophobia/static/js/runtime-main.297787e5.js",
+    "runtime-main.js.map": "/Xenophobia/static/js/runtime-main.297787e5.js.map",
+    "static/js/2.bf46b55f.chunk.js": "/Xenophobia/static/js/2.bf46b55f.chunk.js",
+    "static/js/2.bf46b55f.chunk.js.map": "/Xenophobia/static/js/2.bf46b55f.chunk.js.map",
     "index.html": "/Xenophobia/index.html",
-    "precache-manifest.dc5ae495dfc505e3dbc040915606ce22.js": "/Xenophobia/precache-manifest.dc5ae495dfc505e3dbc040915606ce22.js",
+    "precache-manifest.d7622191ac36e0e7fb5353a6e3468f8d.js": "/Xenophobia/precache-manifest.d7622191ac36e0e7fb5353a6e3468f8d.js",
     "service-worker.js": "/Xenophobia/service-worker.js",
-    "static/css/main.998d4886.chunk.css.map": "/Xenophobia/static/css/main.998d4886.chunk.css.map"
+    "static/css/main.ebd0b86e.chunk.css.map": "/Xenophobia/static/css/main.ebd0b86e.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0205741d.js",
-    "static/js/2.14dc5bb6.chunk.js",
-    "static/css/main.998d4886.chunk.css",
-    "static/js/main.72c770b0.chunk.js"
+    "static/js/runtime-main.297787e5.js",
+    "static/js/2.bf46b55f.chunk.js",
+    "static/css/main.ebd0b86e.chunk.css",
+    "static/js/main.0d6c5fec.chunk.js"
   ]
 }
