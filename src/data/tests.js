@@ -9,7 +9,7 @@ const tests = [
     categoryType: 'type of person',
     compatible: {
       'south_african': 'good_person',
-      'african': 'bad_person'
+      'foreigner': 'bad_person'
     },
     
   }
