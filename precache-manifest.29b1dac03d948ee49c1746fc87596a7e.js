@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89b15609b493fb48c4d465b9c1594856",
+    "revision": "600abf80cd446b1c3a53c3fa9c6fb1de",
     "url": "/Xenophobia/index.html"
   },
   {
-    "revision": "4133638de754ec8c2f4d",
+    "revision": "4d39fecf44091e3b2f54",
     "url": "/Xenophobia/static/css/main.ebd0b86e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Xenophobia/static/js/2.bf46b55f.chunk.js"
   },
   {
-    "revision": "4133638de754ec8c2f4d",
-    "url": "/Xenophobia/static/js/main.0d6c5fec.chunk.js"
+    "revision": "4d39fecf44091e3b2f54",
+    "url": "/Xenophobia/static/js/main.50d21c1e.chunk.js"
   },
   {
     "revision": "2bb93a7b0f3379d3f364",
